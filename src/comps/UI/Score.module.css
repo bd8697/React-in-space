@@ -1,0 +1,11 @@
+.score {
+    position: absolute;
+    display: inline;
+    top: 7vh;
+}
+
+.scoreText {
+    color: rgb(255, 255, 100);
+    font-size: 2em;
+    opacity: 0.86;
+}

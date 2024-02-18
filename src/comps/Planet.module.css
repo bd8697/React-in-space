@@ -1,0 +1,24 @@
+.planet {
+    position: absolute;
+    transition-timing-function: cubic-bezier(1,0,0,1);
+}
+
+.skin {
+    max-width:100%;
+}
+
+.hitbox {
+    z-index: 2;
+    position:absolute;
+    width: 50%;
+    height: 50%;
+    top: 25%;
+    left: 25%;
+    pointer-events: auto;
+    transform: scale(0.86, 0.86)
+}
+
+.bounds {
+    position:absolute;
+    font-size: 0;
+}

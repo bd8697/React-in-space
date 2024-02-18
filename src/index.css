@@ -1,0 +1,9 @@
+body, button {
+  margin: 0;
+  font-family: 'Rancho', cursive;
+  font-weight: 500;
+  font-size: 3em;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

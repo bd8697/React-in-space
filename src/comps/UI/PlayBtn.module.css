@@ -1,0 +1,14 @@
+.playButton {
+    position: absolute;
+    pointer-events: auto;
+
+    color: rgb(255, 255, 100);
+    padding: 0vh 5vw 1vh 5vw;
+    background: transparent;
+    border-radius: 10vh;
+    border: 1vh solid rgb(255, 255, 100);;
+    cursor: pointer;
+    opacity: 0.86;
+    top: 75vh;
+    transform: translate(-50%, -50%);
+}

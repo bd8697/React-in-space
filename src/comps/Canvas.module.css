@@ -1,0 +1,17 @@
+.canvas {
+  overflow: hidden;
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+}
+
+* {
+  cursor: none;
+  pointer-events: none;
+  user-select: none;
+}
+
